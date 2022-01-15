@@ -23,6 +23,13 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
 MANIFEST
 
 # PyInstaller
